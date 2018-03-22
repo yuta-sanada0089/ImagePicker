@@ -1,0 +1,25 @@
+PODS:
+  - Cache (4.1.2)
+  - Hue (3.0.1)
+  - ImagePicker (3.0.0)
+  - Imaginary (3.0.3):
+    - Cache (~> 4.0)
+  - Lightbox (2.1.2):
+    - Hue (~> 3.0)
+    - Imaginary (~> 3.0)
+
+DEPENDENCIES:
+  - Hue
+  - ImagePicker
+  - Lightbox
+
+SPEC CHECKSUMS:
+  Cache: bd0233fc688b5e83a27bcd87807db7e6f23adcc5
+  Hue: 93e852fa6211ab35922ad8c293f51c43d6c79eb2
+  ImagePicker: 973953c25960fe04729a7082a56194321c6762d2
+  Imaginary: 9b45836a5af881f452a86e0a1215772ae4712d00
+  Lightbox: 2dc267df8be2285bc7724cb11cbbf4aaaf59dced
+
+PODFILE CHECKSUM: 8e69f1ee8658f94f371e5fd1a644ce63e7e3ccc8
+
+COCOAPODS: 1.4.0
